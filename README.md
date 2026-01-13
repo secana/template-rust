@@ -33,3 +33,8 @@ After creating a new repository from this template, make sure to:
 - [ ] Add the Actions secret `RELEASE_PLZ_TOKEN` (GitHub token with rights to create releases)
 - [ ] Add the Actions secret `CARGO_REGISTRY_TOKEN` to release to crates.io (if applicable)
 
+## Github Settings TODOs
+
+After creating a new repository from this template, make sure to:
+- [ ] Enable "Require status checks to pass before merging" in Branch Protection Rules for `main` branch
+- [ ] Enable "Allow auto-merge" under "General" settings
